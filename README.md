@@ -3,5 +3,5 @@ https://pubgleague.netlify.com/
 
 
 AUTHOR
-  Ayush Singh
+  Ayush Singh, 
   Dev Agarwal
