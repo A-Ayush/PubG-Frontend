@@ -1,8 +1,8 @@
-"# pubg-frontend" 
+# pubg-frontend" 
 https://pubgleague.netlify.com/
 
 
-##AUTHOR
+## AUTHOR
   ```bash
   Ayush Singh, 
   Dev Agarwal
